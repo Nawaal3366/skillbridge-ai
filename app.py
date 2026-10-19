@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Initialize Gemini API
-api_key = "AIzaSyD8bEvphQJIf0hMrXLONzQNbAAfreMqn_s"
+api_key = "AQ.Ab8RN6JGqHU_eAo0XJUSFUoIrU-Eyr1VHFZ7mDDy17L4hK2QqA"
 
 if api_key:
     genai.configure(api_key=api_key)
